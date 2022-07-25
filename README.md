@@ -1,1 +1,1 @@
-My link: https://sanyaswb.github.io/homework_02_table
+DEMO LINK: https://sanyaswb.github.io/homework_02_table
