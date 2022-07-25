@@ -1,0 +1,26 @@
+.size__container {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-end;
+}
+
+.size__container-list {
+	display: flex;
+	flex-direction: row;
+}
+
+.size__content-select {
+	background-color: transparent;
+	width: 80px;
+	margin-right: 20px;
+}
+
+option {
+	background-color: transparent;
+}
+
+@media screen and (max-width: 640px) {
+	.size__container {
+		align-items: center;
+	}
+}
