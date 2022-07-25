@@ -5,6 +5,8 @@
 }
 
 .list__genres {
+	padding-left: 16px;
+	/*list-style: none;*/
 	display: flex;
 }
 

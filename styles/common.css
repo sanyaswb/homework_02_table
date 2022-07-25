@@ -60,6 +60,9 @@ hr {
 	border-style: hidden;
 	border-radius: 5px;
 	margin: 20px 0 20px 0;
+	-webkit-box-shadow: 0 9px 11px 0 rgba(34, 60, 80, 0.69);
+	-moz-box-shadow: 0 9px 11px 0 rgba(34, 60, 80, 0.69);
+	box-shadow: 0 9px 11px 0 rgba(34, 60, 80, 0.69);
 }
 
 @media screen and (max-width: 640px) {

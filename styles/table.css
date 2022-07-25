@@ -36,5 +36,12 @@ th:first-child, td:first-child {
 
 td {
 	background: #8B7CE5;
+	width: 120px;
+}
+
+@media screen and (max-width: 480px) {
+	td {
+		width: 30px;
+	}
 }
 
