@@ -43,4 +43,9 @@
 	.navigation__button {
 		margin-bottom: 10px;
 	}
+
+	.navigation {
+		height: 180px;
+	}
+
 }

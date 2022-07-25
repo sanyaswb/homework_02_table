@@ -1,0 +1,40 @@
+.content__table {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+table {
+	font-family: 'Edu TAS Beginner', cursive, Sans-Serif;
+	font-weight: 600;
+	font-size: 14px;
+	border-collapse: collapse;
+	text-align: center;
+}
+
+caption {
+	font-weight: 600;
+	font-size: 20px;
+	padding: 10px;
+}
+
+th, td:first-child {
+	background: #AFCDE7;
+	color: teal;
+	padding: 10px 20px;
+}
+
+th, td {
+	border-style: solid;
+	border-width: 0 1px 1px 0;
+	border-color: #A54068;
+}
+
+th:first-child, td:first-child {
+	text-align: left;
+}
+
+td {
+	background: #8B7CE5;
+}
+
