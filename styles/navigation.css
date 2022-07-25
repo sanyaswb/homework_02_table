@@ -1,11 +1,12 @@
 .navigation {
-	background-color: #8F8DEC;
+	background-color: #9188E2;
 	display: flex;
 	width: 100%;
 	justify-content: space-around;
 	align-items: center;
 	flex-direction: row;
-	height: 80px;
+	height: 100%;
+	padding: 20px;
 }
 
 .navigation__button {
